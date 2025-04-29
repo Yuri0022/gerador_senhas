@@ -9,4 +9,4 @@ Aplicativo simples em Python com interface gráfica (Tkinter) para gerar senhas 
 
 ## Como usar
 ```bash
-python gerador_senhas.py
+python gerador_senha.py
